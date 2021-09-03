@@ -5,7 +5,7 @@
     "ts-check": "svelte-check"
   },
   "dependencies": {
-    "immer": "^8.0.1",
+    "immer": "^9.0.6",
     "papaparse": "^5.3.0",
     "svelte": "^3.24.0"
   },
